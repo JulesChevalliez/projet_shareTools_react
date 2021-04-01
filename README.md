@@ -2,4 +2,4 @@
 
 Sujet : Création d'une Progressive Web App de gestion de prêt de matériel entre voisins
 
-Réalisé par Nicolas Fabing, Jules Chevaliez, Simon Kiffer et David Alejandro
+Réalisé par Nicolas Fabing, Jules Chevalliez, Simon Kiffer et David Alejandro
